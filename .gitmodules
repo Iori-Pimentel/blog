@@ -1,0 +1,4 @@
+[submodule "iori-pimentel-blog/public"]
+	path = iori-pimentel-blog/public
+	url = https://github.com/Iori-Pimentel/iori-pimentel.github.io
+	branch = main
