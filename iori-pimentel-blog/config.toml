@@ -1,0 +1,5 @@
+baseURL = 'https://iori-pimentel.github.io/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+
+theme='hugo-PaperMod'
